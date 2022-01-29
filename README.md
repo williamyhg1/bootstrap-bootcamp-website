@@ -1,1 +1,1 @@
-A bootcamp clone made with bootstrap
+A bootcamp cloned webpage made with bootstrap
